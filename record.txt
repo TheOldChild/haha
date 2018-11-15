@@ -1,0 +1,19 @@
+git@github.com:TheOldChild/haha.git
+
+
+# 把文件夹下面的文件都添加进来
+git add .
+
+# 
+git commit  -m  "提交信息"
+
+# 更新github到本地仓库
+git push origin master
+
+# 把本地仓库push到github上面
+git push -u origin master
+
+
+
+
+git rm
